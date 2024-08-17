@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>C:/Users/asus/Pictures/rc/chat/file.png</file>
+        <file>C:/Users/asus/Pictures/wallpapers/wallhaven-yjw2gg_3840x1600.png</file>
+        <file>C:/Users/asus/Pictures/rc/konosuba.jpg</file>
+    </qresource>
+</RCC>
